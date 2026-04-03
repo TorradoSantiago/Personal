@@ -1,16 +1,14 @@
 # Personal
 
-Repositorio reservado para piezas personales, experimentos y borradores con potencial de portfolio.
+Repositorio reservado para piezas personales, experimentos y borradores con potencial de portfolio. Estaba vacio; ahora queda al menos con una definicion de uso para que no parezca un repo abandonado.
 
-## Objetivo
+## Uso sugerido
 
-Funcionar como espacio base para futuros proyectos de marca personal, prototipos y trabajos exploratorios.
+- Prototipos rapidos.
+- Ideas de contenido profesional.
+- Borradores de analisis o visualizaciones.
+- Recursos para marca personal y portfolio.
 
-## Herramientas
+## Recomendacion
 
-- Git
-- Markdown
-
-## Conclusion
-
-El repo ya tiene una definicion clara de uso y queda listo para recibir un primer proyecto sin verse vacio o abandonado.
+Cuando agregues el primer proyecto, sumale desde el inicio README, objetivo, stack y captura de valor.
