@@ -1,14 +1,17 @@
 # Personal
 
-Repositorio reservado para piezas personales, experimentos y borradores con potencial de portfolio. Estaba vacio; ahora queda al menos con una definicion de uso para que no parezca un repo abandonado.
+Reserved repository for future personal-brand assets, experiments, and supporting portfolio materials.
 
-## Uso sugerido
+Start with:
+- `BRIEF.md`
 
-- Prototipos rapidos.
-- Ideas de contenido profesional.
-- Borradores de analisis o visualizaciones.
-- Recursos para marca personal y portfolio.
+## Suggested use
 
-## Recomendacion
+- Rapid prototypes
+- Professional content ideas
+- Draft analyses or visualizations
+- Personal-brand and portfolio support materials
 
-Cuando agregues el primer proyecto, sumale desde el inicio README, objetivo, stack y captura de valor.
+## Recommendation
+
+When the first concrete asset is added, give it a README, objective, stack, and clear value statement from day one.
